@@ -169,4 +169,13 @@ Based on the analysis, the following strategies are recommended:
 - Automate rule selection using business constraints
 - Deploy insights into a dashboard for decision-makers
 - Extend analysis to customer segmentation
+market-basket-analysis/
+├── README.md
+├── cover.jpg
+├── data/
+│   └── Groceries_dataset.csv
+├── notebook/
+│   └── Market_Basket_Analysis_Group1.ipynb
+├── reports/
+│   └── ML-FinalProject-Group1.docx
 
