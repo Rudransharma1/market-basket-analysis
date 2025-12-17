@@ -1,4 +1,4 @@
-![Project Cover](cover.jpg)
+![Project Cover](COVER.jpg)
 
 # Market Basket Analysis – Retail Sales Optimization
 
